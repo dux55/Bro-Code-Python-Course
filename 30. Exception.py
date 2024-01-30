@@ -1,5 +1,3 @@
-#Exceptions
-
 try:
     numerator = int(input())
     denominator = int(input())

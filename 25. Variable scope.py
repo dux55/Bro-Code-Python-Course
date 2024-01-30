@@ -1,5 +1,3 @@
-#Scope
-
 name = "Dux"
 
 def display_name():

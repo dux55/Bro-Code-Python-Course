@@ -1,5 +1,3 @@
-#2D list
-
 drinks = ["coffe", "soda", "tea"]
 dinner = ["pizza", "hamburger", "hotdog"]
 dessert = ["cake", "ice cream"]

@@ -1,4 +1,3 @@
-#String
 name = "Dux"
 print(type(name))
 print("Hello, "+name)

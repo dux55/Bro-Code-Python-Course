@@ -1,5 +1,3 @@
-#String slicing
-
 #By index
 name = "Dux5"
 first_name = name[:3]

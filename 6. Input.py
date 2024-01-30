@@ -1,4 +1,3 @@
-#Input
 name = input("Name: ")
 age = int(input("Age: "))
 height = float(input("Height: "))

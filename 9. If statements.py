@@ -1,5 +1,3 @@
-#If statements
-
 age = int(input("Age: "))
 
 if age == 100:

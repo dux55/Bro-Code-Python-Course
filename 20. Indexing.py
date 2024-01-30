@@ -1,5 +1,3 @@
-#Index operator
-
 name = "dux5!"
 
 if(name[0].islower()): name = name.capitalize()

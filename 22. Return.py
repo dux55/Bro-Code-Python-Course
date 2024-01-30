@@ -1,5 +1,3 @@
-#Return statement
-
 def mul(x, y):
     return x*y
 

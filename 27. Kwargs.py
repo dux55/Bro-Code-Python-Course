@@ -1,5 +1,3 @@
-#**kwargs
-
 def hello(**kwargs):
     #print("Hello, "+kwargs['first']+" "+kwargs['last'])
     print("Hello,", end=" ")

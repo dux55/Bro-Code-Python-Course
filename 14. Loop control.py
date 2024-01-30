@@ -1,5 +1,3 @@
-#Loop control
-
 while True:
     name = input("Name: ")
     if(name != ""):

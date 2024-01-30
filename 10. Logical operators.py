@@ -1,5 +1,3 @@
-#Logical operators
-
 temperature = int(input("Temperature: "))
 
 if not(0 <= temperature and temperature <= 30):

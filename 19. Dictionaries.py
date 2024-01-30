@@ -1,5 +1,3 @@
-#Dictionary
-
 capitals = {"USA":"Washington DC",
             "India":"New Dehli",
             "China":"Peking",

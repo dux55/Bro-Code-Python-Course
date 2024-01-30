@@ -1,5 +1,3 @@
-#Set
-
 utensils = {"fork", "spoon", "knife", "knife"}
 
 utensils.add("napkin")

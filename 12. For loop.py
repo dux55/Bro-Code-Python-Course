@@ -1,4 +1,3 @@
-#For loop
 import time
 
 for i in range(10):

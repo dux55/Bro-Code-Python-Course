@@ -1,4 +1,3 @@
-#Multiple assigment
 #name = "Dux"
 #age = 16
 #attractive = False

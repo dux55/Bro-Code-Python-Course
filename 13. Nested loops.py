@@ -1,5 +1,3 @@
-#Nested loops
-
 rows = int(input("Rows: "))
 columns = int(input("Columns: "))
 symbol = input("Symbol: ")

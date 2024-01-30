@@ -1,5 +1,3 @@
-#Args
-
 def add(*args):
     sum = 0
     args = list(args)

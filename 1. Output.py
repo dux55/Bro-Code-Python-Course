@@ -1,2 +1,1 @@
-#Output
 print("Hello world!")

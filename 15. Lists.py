@@ -1,5 +1,3 @@
-#List
-
 food = ["pizza", "hamburger", "hotdog", "spaghetti", "pudding"]
 print(food)
 print(food[0])

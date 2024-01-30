@@ -1,5 +1,3 @@
-#str.format()
-
 animal = "cow"
 item = "moon"
 
